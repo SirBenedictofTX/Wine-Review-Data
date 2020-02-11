@@ -1,0 +1,274 @@
+{"ts":"2020-02-07T15:29:35.481","sev":"info","k":"app-config","v":"appDir: /Applications/Tableau Prep Builder 2019.4.app/Contents/Resources/app","pid":5274}
+{"ts":"2020-02-07T15:29:35.481","sev":"info","k":"app-config","v":"sampleFlowPaths: /Applications/Tableau Prep Builder 2019.4.app/Contents/help/Samples/en_US/Superstore.tflx,/Applications/Tableau Prep Builder 2019.4.app/Contents/help/Samples/en_US/WorldIndicators.tflx","pid":5274}
+{"ts":"2020-02-07T15:29:35.481","sev":"info","k":"app-config-env","v":{"appDir":"/Applications/Tableau Prep Builder 2019.4.app/Contents/Resources/app","iconDir":"/Applications/Tableau Prep Builder 2019.4.app/Contents/Resources/app/icons","isDevEnlistment":false,"restApiJarPath":"/Applications/Tableau Prep Builder 2019.4.app/Contents/Resources/app/loom-rest-api-1.0-SNAPSHOT.jar","sampleFlowPaths":["/Applications/Tableau Prep Builder 2019.4.app/Contents/help/Samples/en_US/Superstore.tflx","/Applications/Tableau Prep Builder 2019.4.app/Contents/help/Samples/en_US/WorldIndicators.tflx"],"windowIconPath":""},"pid":5274}
+{"ts":"2020-02-07T15:29:35.481","sev":"info","k":"app-config-raw-command-line","v":{"argv":["","/Applications/Tableau Prep Builder 2019.4.app/Contents/MacOS/Tableau Prep Builder"]},"pid":5274}
+{"ts":"2020-02-07T15:29:35.483","sev":"info","k":"app-config-command-line","v":{"settings":{},"settingsFilePaths":[],"quit":false},"pid":5274}
+{"ts":"2020-02-07T15:29:35.483","sev":"info","k":"app-utils","v":"build version: 19.42.19.1205.1336","pid":5274}
+{"ts":"2020-02-07T15:29:35.483","sev":"info","k":"app-utils","v":"getBuildVersion = 19.42.19.1205.1336","pid":5274}
+{"ts":"2020-02-07T15:29:35.483","sev":"info","k":"app-utils","v":"isLocallyPackaged = false","pid":5274}
+{"ts":"2020-02-07T15:29:35.483","sev":"info","k":"app-config","v":"Using external settings file settings-19.42.19.1205.1336.json","pid":5274}
+{"ts":"2020-02-07T15:29:35.484","sev":"info","k":"app-config-read-settings-file","v":{"settingsFilePath":"/Applications/Tableau Prep Builder 2019.4.app/Contents/Resources/app/default-settings.json","settings":{"featureFlags":{"accessConnector":true,"addCredentials":false,"adpCustomDataRole":true,"adpFuzzyMatchSuggestion":true,"adpPivotSuggestion":true,"adpToolbarSuggestions":true,"alibabaConnectors":true,"alibabaMaxComputeConnector":false,"analyticsSupport":false,"annotationSelectionRevamp":true,"athenaConnector":true,"autosave":false,"azureSqlDWConnector":true,"boxConnector":true,"britishEnglish":true,"superTransformNodes":false,"cloudfileConnectors":true,"compatibilityMenuEntry":false,"connectionDialogOAuth":false,"customRoles":false,"databaseVariablesAndParameters":true,"databricksConnector":true,"datasourceInputNode":true,"extensibilityNode":true,"fieldFilteringGridToDataGridConversion":false,"fieldListView":true,"fieldListViewImprovements":true,"flowCompatibilitySP1":true,"flowCompatibilitySP2":true,"flowCompatibilitySP3":false,"flowlets":true,"flowPermissions":false,"flowPreCheck":true,"flowTags":true,"flowThumbnails":true,"futureFeature":false,"fuzzyClusteringFastMatch":true,"fuzzyClusteringSlider":true,"fuzzyMatchCDR":true,"getFullDomainFilter":false,"googleBigQueryConnector":true,"groupFlowNodes":false,"handleBadlyEncodedUIData":false,"highlightConnections":false,"improvedFeedback":true,"inAppFeedback":false,"incrementalRefresh":false,"initialSqlFlowNameParameter":false,"initialSqlTableauAppParameter":false,"initialSqlTableauVersionParameter":false,"inputNullFilter":false,"inputSATUnion":true,"insertFlowNodes":true,"italian":true,"kyvosConnector":true,"lodCalcs":false,"mariaDBConnector":true,"metadataMode":false,"multiRowCalcs":false,"noCacheAnalyzer":false,"oauthServiceEnabled":true,"otherJDBCConnector":true,"otherODBCConnector":true,"outputToDatabase":false,"pdfConnector":true,"pivotOnMultiSelect":true,"primaryKeyValidation":false,"profilePaneCardMotionAnimation":false,"profilePaneKeyboardNavigation":false,"pythonSupport":true,"quboleConnector":true,"recipeNoChangesApplied":false,"refreshDatasource":false,"richConditionFilter":false,"richDiscreteValueFilter":true,"richDiscreteValueFilterAnalyzerV2":true,"sapHanaConnector":true,"searchAcrossFlow":false,"sharedContextMenus":false,"simpleResultsAnalyzer":false,"traditionalChinese":true},"barChartMotionAnimationEnabled":true}},"pid":5274}
+{"ts":"2020-02-07T15:29:35.485","sev":"info","k":"app-config","v":"Settings file doesn't exist: /Users/alexbenedict/Documents/My Tableau Prep Repository/Settings/settings-19.42.19.1205.1336.json","pid":5274}
+{"ts":"2020-02-07T15:29:35.485","sev":"info","k":"app-config-settings","v":{"featureFlags":{"accessConnector":true,"addCredentials":false,"adpCustomDataRole":true,"adpFuzzyMatchSuggestion":true,"adpPivotSuggestion":true,"adpToolbarSuggestions":true,"alibabaConnectors":true,"alibabaMaxComputeConnector":false,"analyticsSupport":false,"annotationSelectionRevamp":true,"athenaConnector":true,"autosave":false,"azureSqlDWConnector":true,"boxConnector":true,"britishEnglish":true,"superTransformNodes":false,"cloudfileConnectors":true,"compatibilityMenuEntry":false,"connectionDialogOAuth":false,"customRoles":false,"databaseVariablesAndParameters":true,"databricksConnector":true,"datasourceInputNode":true,"extensibilityNode":true,"fieldFilteringGridToDataGridConversion":false,"fieldListView":true,"fieldListViewImprovements":true,"flowCompatibilitySP1":true,"flowCompatibilitySP2":true,"flowCompatibilitySP3":false,"flowlets":true,"flowPermissions":false,"flowPreCheck":true,"flowTags":true,"flowThumbnails":true,"futureFeature":false,"fuzzyClusteringFastMatch":true,"fuzzyClusteringSlider":true,"fuzzyMatchCDR":true,"getFullDomainFilter":false,"googleBigQueryConnector":true,"groupFlowNodes":false,"handleBadlyEncodedUIData":false,"highlightConnections":false,"improvedFeedback":true,"inAppFeedback":false,"incrementalRefresh":false,"initialSqlFlowNameParameter":false,"initialSqlTableauAppParameter":false,"initialSqlTableauVersionParameter":false,"inputNullFilter":false,"inputSATUnion":true,"insertFlowNodes":true,"italian":true,"kyvosConnector":true,"lodCalcs":false,"mariaDBConnector":true,"metadataMode":false,"multiRowCalcs":false,"noCacheAnalyzer":false,"oauthServiceEnabled":true,"otherJDBCConnector":true,"otherODBCConnector":true,"outputToDatabase":false,"pdfConnector":true,"pivotOnMultiSelect":true,"primaryKeyValidation":false,"profilePaneCardMotionAnimation":false,"profilePaneKeyboardNavigation":false,"pythonSupport":true,"quboleConnector":true,"recipeNoChangesApplied":false,"refreshDatasource":false,"richConditionFilter":false,"richDiscreteValueFilter":true,"richDiscreteValueFilterAnalyzerV2":true,"sapHanaConnector":true,"searchAcrossFlow":false,"sharedContextMenus":false,"simpleResultsAnalyzer":false,"traditionalChinese":true},"barChartMotionAnimationEnabled":true,"recordTelemetry":false},"pid":5274}
+{"ts":"2020-02-07T15:29:35.485","sev":"info","k":"app-start","v":{"version":"19.42.19.1205.1336","pid":5274},"pid":5274}
+{"ts":"2020-02-07T15:29:35.485","sev":"info","k":"app-start","v":"Installing test hooks","pid":5274}
+{"ts":"2020-02-07T15:29:35.486","sev":"info","k":"test-hooks","v":"installing testApiHook listener on IPC channel: testApi/quit-app","pid":5274}
+{"ts":"2020-02-07T15:29:35.486","sev":"info","k":"single-instance-app","v":"Attempting to get singleInstaceLock","pid":5274}
+{"ts":"2020-02-07T15:29:35.491","sev":"info","k":"single-instance-app","v":"Got the lock. This is the main process.","pid":5274}
+{"ts":"2020-02-07T15:29:35.611","sev":"info","k":"app-open-file","v":{"filePath":"/Users/alexbenedict/Desktop/Wine Data/wineflow.tfl"},"pid":5274}
+{"ts":"2020-02-07T15:29:35.611","sev":"warn","k":"ServiceRegistry","v":"service Symbol(PrepWindowManager) not found in service registry","pid":5274}
+{"ts":"2020-02-07T15:29:35.611","sev":"info","k":"app-open-file","v":"not opening file because there is no prepWindowManager","pid":5274}
+{"ts":"2020-02-07T15:29:35.615","sev":"info","k":"app-ready","v":"","pid":5274}
+{"ts":"2020-02-07T15:29:35.619","sev":"info","k":"init-settings-cache","v":{"persistentSettingsCache":{"repositoryLanguage":"en_US","repositoryRootFolder":"/Users/alexbenedict/Desktop/Wine Data"}},"pid":5274}
+{"ts":"2020-02-07T15:29:35.619","sev":"info","k":"localization","v":"OS UI locale is en-US","pid":5274}
+{"ts":"2020-02-07T15:29:35.619","sev":"info","k":"localization","v":"Using OS UI locale because no app language has been set.","pid":5274}
+{"ts":"2020-02-07T15:29:35.619","sev":"info","k":"app-start","v":"App is using locale en_US for text","pid":5274}
+{"ts":"2020-02-07T15:29:35.623","sev":"info","k":"app-start","v":"Repository language is en_US","pid":5274}
+{"ts":"2020-02-07T15:29:35.639","sev":"info","k":"repository","v":"Repository location is /Users/alexbenedict/Desktop/Wine Data","pid":5274}
+{"ts":"2020-02-07T15:29:35.646","sev":"info","k":"app-start","v":"Recommendations are enabled","pid":5274}
+{"ts":"2020-02-07T15:29:35.646","sev":"info","k":"app-start","v":"Compatibility Mode is enabled","pid":5274}
+{"ts":"2020-02-07T15:29:35.647","sev":"info","k":"spash-screen","v":"creating splash screen","pid":5274}
+{"ts":"2020-02-07T15:29:35.682","sev":"info","k":"spash-screen","v":"Loading data:text/html;charset=UTF-8,%0A%20%20%20%20%20%20%3C!doctype%20html%3E%0A%20%20%20%20%20%20%3Chtml%3E%0A%20%20%20%20%20%20%3Chead%3E%0A%20%20%20%20%20%20%20%20%3Cmeta%20charset%3D%22utf-8%22%3E%0A%20%20%20%20%20%20%20%20%3Cstyle%3E%0A%20%20%20%20%20%20%20%20%20%20html%2C%20body%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20height%3A%20100%25%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20margin%3A%200%3B%0A%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20body%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20position%3A%20relative%3B%0A%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%23splash%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20display%3A%20block%3B%0A%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%3C%2Fstyle%3E%0A%20%20%20%20%20%20%3C%2Fhead%3E%0A%20%20%20%20%20%20%3Cbody%3E%0A%20%20%20%20%20%20%20%20%3Cobject%20type%3D%22image%2Fsvg%2Bxml%22%20data%3D%22icons%2Fsplash.svg%22%20id%3D%22splash%22%20onload%3D%22initializeSplash()%22%3E%3C%2Fobject%3E%0A%20%20%20%20%20%20%20%20%3Cscript%3E%0A%20%20%20%20%20%20%20%20%20%20function%20initializeSplash()%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20const%20svgDoc%20%3D%20document.getElementById(%22splash%22).contentDocument%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20if%20(svgDoc)%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20const%20versionElem%20%3D%20svgDoc.getElementById(%22splashVersionText%22)%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20(versionElem)%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20versionElem.textContent%20%3D%20%22Version%202019.4.2%22%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20const%20copyrightElem%20%3D%20svgDoc.getElementById(%22splashCopyrightText%22)%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20if%20(copyrightElem)%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20copyrightElem.textContent%20%3D%20%22%C2%A9%202019%20Tableau%20Software%2C%20Inc.%20and%20its%20licensors.%20All%20rights%20reserved.%22%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20%20%20%3C%2Fscript%3E%0A%20%20%20%20%20%20%3C%2Fbody%3E%0A%20%20%20%20%20%20%3C%2Fhtml%3E%0A%20%20%20%20 in the splash screen","pid":5274}
+{"ts":"2020-02-07T15:29:35.692","sev":"info","k":"backend-process-manager-client","v":"starting BackendProcessManager...","pid":5274}
+{"ts":"2020-02-07T15:29:35.698","sev":"info","k":"backend-process-manager-client","v":{"msg":"BackedProcessManager started","pid":5278},"pid":5274}
+{"ts":"2020-02-07T15:29:35.698","sev":"info","k":"backend-process-manager-client","v":"sending configuration message","pid":5274}
+{"ts":"2020-02-07T15:29:46.584","sev":"info","k":"backend-process-manager-client","v":{"msg":"received message from BackendProcessManager process","ipcMessage":{"type":"backend-start-success","backendConfig":{"port":56587}}},"pid":5274}
+{"ts":"2020-02-07T15:29:46.585","sev":"info","k":"app-start","v":"Started backend. Will send requests to https://127.0.0.1:56587/","pid":5274}
+{"ts":"2020-02-07T15:29:46.585","sev":"info","k":"app-start","v":"Querying to see if telemetry is enabled.","pid":5274}
+{"ts":"2020-02-07T15:29:46.585","sev":"info","k":"get-telemetry-enabled","v":{"msg":"checking if telemetry is enabled","backendRootUrl":"https://127.0.0.1:56587/","accessToken":"79e5b023f80b46c05e63896972c666086b2e479f0f38b3497bf9ce84d803f9e539bc0bad901cf2d1495ed22f225ee9d5"},"pid":5274}
+{"ts":"2020-02-07T15:29:46.906","sev":"info","k":"app-start","v":"Telemetry enabled? false","pid":5274}
+{"ts":"2020-02-07T15:29:46.907","sev":"info","k":"localization","v":"Querying to get os user locale.","pid":5274}
+{"ts":"2020-02-07T15:29:46.949","sev":"info","k":"localization","v":"OS user locale is en_US","pid":5274}
+{"ts":"2020-02-07T15:29:46.949","sev":"info","k":"app-start","v":"App is using locale en_US for formatting","pid":5274}
+{"ts":"2020-02-07T15:29:46.998","sev":"info","k":"app-start","v":"Checking if the product is licensed.","pid":5274}
+{"ts":"2020-02-07T15:29:47.174","sev":"info","k":"app-start","v":"Got license state license-ok","pid":5274}
+{"ts":"2020-02-07T15:29:47.174","sev":"info","k":"app-start","v":"License retrieved and window title updated.","pid":5274}
+{"ts":"2020-02-07T15:29:47.175","sev":"info","k":"app-start","v":"Creating a PrepWindowManager to manage windows","pid":5274}
+{"ts":"2020-02-07T15:29:47.188","sev":"info","k":"prep-window-manager","v":"Opening file: /Users/alexbenedict/Desktop/Wine Data/wineflow.tfl","pid":5274}
+{"ts":"2020-02-07T15:29:47.189","sev":"info","k":"prep-window-manager","v":"Checking if file is already open","pid":5274}
+{"ts":"2020-02-07T15:29:47.189","sev":"info","k":"prep-window-manager","v":"Opening a new window for file","pid":5274}
+{"ts":"2020-02-07T15:29:47.191","sev":"info","k":"prep-window","v":{"browserWindowOptions":{"width":1366,"height":768,"minWidth":740,"minHeight":555,"backgroundColor":"#f8f8f8","title":"Tableau Prep Builder","icon":"","show":false,"useContentSize":false,"enableLargerThanScreen":false,"webPreferences":{"nodeIntegration":false,"preload":"/Applications/Tableau Prep Builder 2019.4.app/Contents/Resources/app/preload.js","webviewTag":true,"allowRunningInsecureContent":false}}},"pid":5274}
+{"ts":"2020-02-07T15:29:47.199","sev":"info","k":"prep-window","v":{"contentSize":[1366,746]},"pid":5274}
+{"ts":"2020-02-07T15:29:48.701","sev":"info","k":"prep-window","v":"Client ready","pid":5274}
+{"ts":"2020-02-07T15:29:48.701","sev":"info","k":"prep-window","v":"Setting sample flow paths to /Applications/Tableau Prep Builder 2019.4.app/Contents/help/Samples/en_US/Superstore.tflx,/Applications/Tableau Prep Builder 2019.4.app/Contents/help/Samples/en_US/WorldIndicators.tflx","pid":5274}
+{"ts":"2020-02-07T15:29:48.702","sev":"info","k":"prep-window","v":"Opening tflFile: /Users/alexbenedict/Desktop/Wine Data/wineflow.tfl","pid":5274}
+{"ts":"2020-02-07T15:29:48.702","sev":"info","k":"prep-window","v":"Done handling clientReady event","pid":5274}
+{"ts":"2020-02-07T15:29:48.861","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.1934000000001106,"jsonParseTime":0,"method":"GET","path":"/api/mruFlows"},"pid":5290}
+{"ts":"2020-02-07T15:29:48.868","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:48.868","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:48.874","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.2029999999977008,"jsonParseTime":0,"method":"GET","path":"/api/vizportalApi/tableauServerInfo"},"pid":5290}
+{"ts":"2020-02-07T15:29:48.879","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flows/versioning?localFile=%2FApplications%2FTableau%20Prep%20Builder%202019.4.app%2FContents%2Fhelp%2FSamples%2Fen_US%2FSuperstore.tflx"},"pid":5290}
+{"ts":"2020-02-07T15:29:48.888","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: false","pid":5274}
+{"ts":"2020-02-07T15:29:48.888","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:48.888","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:48.892","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: true","pid":5274}
+{"ts":"2020-02-07T15:29:48.893","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/connections/connections"},"pid":5290}
+{"ts":"2020-02-07T15:29:48.894","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/connections/connections"},"pid":5290}
+{"ts":"2020-02-07T15:29:48.907","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: true","pid":5274}
+{"ts":"2020-02-07T15:29:48.907","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:48.907","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:48.915","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: false","pid":5274}
+{"ts":"2020-02-07T15:29:48.943","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flows/versioning?localFile=%2FUsers%2Falexbenedict%2FDesktop%2FWine%20Data%2Fwineflow.tfl"},"pid":5290}
+{"ts":"2020-02-07T15:29:48.948","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.27859999999782303,"jsonParseTime":0,"method":"GET","path":"/api/crashReporting/newCrashDumpExists"},"pid":5290}
+{"ts":"2020-02-07T15:29:48.950","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.286099999997532,"jsonParseTime":0.00009999999747378752,"method":"GET","path":"/api/cacheOperations/getSemanticRoles"},"pid":5290}
+{"ts":"2020-02-07T15:29:48.961","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/startupTimings"},"pid":5290}
+{"ts":"2020-02-07T15:29:48.976","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.08229999999821302,"jsonParseTime":0,"method":"DELETE","path":"/api/connections/connections"},"pid":5290}
+{"ts":"2020-02-07T15:29:49.059","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.09809999999924912,"jsonParseTime":0,"method":"GET","path":"/api/startupTimings"},"pid":5290}
+{"ts":"2020-02-07T15:29:49.063","sev":"info","k":"startup-complete","v":{"app":{"licenseCheckComplete":12.03,"splashScreenHidden":13.645},"backend":{"jvmStartTime":0.894,"nativeApiReady":10.041,"nativeApiStarting":5.042,"springAppStarting":1.481,"springServletInitialized":11.233},"ui":{"initialRenderComplete":13.637}},"pid":5290}
+{"ts":"2020-02-07T15:29:49.098","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.43170000000100117,"jsonParseTime":0.007900000000518048,"method":"GET","path":"/api/functions"},"pid":5290}
+{"ts":"2020-02-07T15:29:49.418","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.474900000001071,"jsonParseTime":0.0007000000005064066,"method":"GET","path":"/api/flows/versioning?localFile=%2FUsers%2Falexbenedict%2FDesktop%2FWine%20Data%2Fwineflow.tfl"},"pid":5290}
+{"ts":"2020-02-07T15:29:49.434","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flowOperations/flows"},"pid":5290}
+{"ts":"2020-02-07T15:29:49.440","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/loomDocValidation"},"pid":5290}
+{"ts":"2020-02-07T15:29:49.441","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flows/versioning/minimumSoftwareVersion"},"pid":5290}
+{"ts":"2020-02-07T15:29:49.446","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:49.446","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:49.468","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: false","pid":5274}
+{"ts":"2020-02-07T15:29:49.468","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:49.468","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:49.473","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: true","pid":5274}
+{"ts":"2020-02-07T15:29:49.568","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.12670000000071013,"jsonParseTime":0,"method":"POST","path":"/api/flows/versioning/minimumSoftwareVersion"},"pid":5290}
+{"ts":"2020-02-07T15:29:49.570","sev":"info","k":"ui-callbacks","v":"Setting ready to save state: true","pid":5274}
+{"ts":"2020-02-07T15:29:49.570","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:49.570","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:49.828","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.948499999998603,"jsonParseTime":0.004099999998288695,"method":"GET","path":"/api/flows/versioning?localFile=%2FApplications%2FTableau%20Prep%20Builder%202019.4.app%2FContents%2Fhelp%2FSamples%2Fen_US%2FSuperstore.tflx"},"pid":5290}
+{"ts":"2020-02-07T15:29:49.830","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:49.830","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:50.494","sev":"info","k":"rest-api-call-end","v":{"elapsed":1.060300000001007,"jsonParseTime":0,"method":"POST","path":"/api/flowOperations/flows"},"pid":5290}
+{"ts":"2020-02-07T15:29:50.509","sev":"info","k":"rest-api-call-end","v":{"elapsed":1.0696000000025379,"jsonParseTime":0.00030000000333529897,"method":"POST","path":"/api/loomDocValidation"},"pid":5290}
+{"ts":"2020-02-07T15:29:54.793","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/desktopIntegration/tableauInfo"},"pid":5290}
+{"ts":"2020-02-07T15:29:54.815","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.021600000000034925,"jsonParseTime":0,"method":"GET","path":"/api/desktopIntegration/tableauInfo"},"pid":5290}
+{"ts":"2020-02-07T15:29:54.833","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flowOperations/flows"},"pid":5290}
+{"ts":"2020-02-07T15:29:54.838","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flowOperations"},"pid":5290}
+{"ts":"2020-02-07T15:29:54.839","sev":"info","k":"ui-callbacks","v":"Setting ready to save state: false","pid":5274}
+{"ts":"2020-02-07T15:29:54.839","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:54.839","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:54.840","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flows/versioning/minimumSoftwareVersion"},"pid":5290}
+{"ts":"2020-02-07T15:29:54.843","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flows/versioning/minimumSoftwareVersion"},"pid":5290}
+{"ts":"2020-02-07T15:29:54.968","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.1275999999998021,"jsonParseTime":0.00010000000111176632,"method":"POST","path":"/api/flows/versioning/minimumSoftwareVersion"},"pid":5290}
+{"ts":"2020-02-07T15:29:54.968","sev":"info","k":"ui-callbacks","v":"Setting ready to save state: true","pid":5274}
+{"ts":"2020-02-07T15:29:54.968","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:54.968","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:29:54.976","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.13370000000213622,"jsonParseTime":0,"method":"POST","path":"/api/flows/versioning/minimumSoftwareVersion"},"pid":5290}
+{"ts":"2020-02-07T15:29:54.984","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.15090000000054715,"jsonParseTime":0,"method":"POST","path":"/api/flowOperations/flows"},"pid":5290}
+{"ts":"2020-02-07T15:29:57.521","sev":"info","k":"rest-api-call-end","v":{"elapsed":2.6824999999989814,"jsonParseTime":0.004099999998288695,"method":"POST","path":"/api/flowOperations"},"pid":5290}
+{"ts":"2020-02-07T15:29:57.522","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/flowOperations/48375bd5-682b-4c2e-b90a-bad2ad42f0d7"},"pid":5290}
+{"ts":"2020-02-07T15:29:57.522","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/flowOperations/48375bd5-682b-4c2e-b90a-bad2ad42f0d7"},"pid":5290}
+{"ts":"2020-02-07T15:29:57.531","sev":"debug","k":"binning-service-ops","v":"updating base bins due to action app/ON_NEW_FLOW_RESULTS_AVAILABLE","pid":5290}
+{"ts":"2020-02-07T15:29:57.574","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.05219999999826541,"jsonParseTime":0,"method":"DELETE","path":"/api/flowOperations/48375bd5-682b-4c2e-b90a-bad2ad42f0d7"},"pid":5290}
+{"ts":"2020-02-07T15:30:04.608","sev":"info","k":"interaction-begin","v":{"name":"FlowGraph.clearSelection","traceId":1},"pid":5290}
+{"ts":"2020-02-07T15:30:04.627","sev":"debug","k":"interaction-completed-tasks","v":{"completedTasks":[{"endTime":17426.100000000588,"name":"FlowGraph.clearSelection","startTime":17407.400000000052,"taskId":1}],"name":"FlowGraph.clearSelection","traceId":1},"pid":5290}
+{"ts":"2020-02-07T15:30:04.627","sev":"info","k":"interaction-end","v":{"elapsed":0.019100000001344597,"name":"FlowGraph.clearSelection","properties":{"contentPaneView":"DataGrid"},"traceId":1},"pid":5290}
+{"ts":"2020-02-07T15:30:05.386","sev":"info","k":"interaction-begin","v":{"name":"FlowGraph.clearSelection","traceId":2},"pid":5290}
+{"ts":"2020-02-07T15:30:05.393","sev":"debug","k":"interaction-completed-tasks","v":{"completedTasks":[{"endTime":18192.50000000102,"name":"FlowGraph.clearSelection","startTime":18186.099999998987,"taskId":2}],"name":"FlowGraph.clearSelection","traceId":2},"pid":5290}
+{"ts":"2020-02-07T15:30:05.394","sev":"info","k":"interaction-end","v":{"elapsed":0.006900000000314321,"name":"FlowGraph.clearSelection","properties":{},"traceId":2},"pid":5290}
+{"ts":"2020-02-07T15:30:05.745","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/loomDocValidation"},"pid":5290}
+{"ts":"2020-02-07T15:30:05.750","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: true","pid":5274}
+{"ts":"2020-02-07T15:30:05.750","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:05.750","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:05.756","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: false","pid":5274}
+{"ts":"2020-02-07T15:30:05.785","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.0400999999983469,"jsonParseTime":0.00019999999858555384,"method":"POST","path":"/api/loomDocValidation"},"pid":5290}
+{"ts":"2020-02-07T15:30:05.788","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flowOperations"},"pid":5290}
+{"ts":"2020-02-07T15:30:05.821","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.03190000000176951,"jsonParseTime":0.0005000000019208528,"method":"POST","path":"/api/flowOperations"},"pid":5290}
+{"ts":"2020-02-07T15:30:06.026","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609213924297&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:06.034","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.007700000001932494,"jsonParseTime":0.00020000000222353265,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609213924297&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:06.236","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:06.242","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.005499999999301508,"jsonParseTime":0,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:06.443","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:06.448","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.005399999998189742,"jsonParseTime":0.00010000000111176632,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:06.651","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:06.656","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.0059000000001105946,"jsonParseTime":0.00009999999747378752,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:06.860","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:06.864","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.005000000001018634,"jsonParseTime":0,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:07.066","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:07.070","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.004299999996874249,"jsonParseTime":0.00009999999747378752,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:07.274","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:07.282","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.008600000001024455,"jsonParseTime":0,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:07.487","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:07.493","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.005499999999301508,"jsonParseTime":0.00010000000111176632,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:07.695","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:07.699","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.00420000000303844,"jsonParseTime":0.00010000000111176632,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:07.901","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:07.905","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.004499999999097781,"jsonParseTime":0.00009999999747378752,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.107","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.111","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.004099999998288695,"jsonParseTime":0,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.312","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.317","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.00480000000243308,"jsonParseTime":0.00020000000222353265,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.519","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.526","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.006900000000314321,"jsonParseTime":0.00010000000111176632,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.728","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.741","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.01269999999931315,"jsonParseTime":0.00019999999858555384,"method":"GET","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf?version=22609222520517&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.742","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.742","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf"},"pid":5290}
+{"ts":"2020-02-07T15:30:08.753","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.010399999999208376,"jsonParseTime":0,"method":"DELETE","path":"/api/flowOperations/fde49a9c-6329-42cf-83b0-eb69e38922cf"},"pid":5290}
+{"ts":"2020-02-07T15:30:10.482","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: false","pid":5274}
+{"ts":"2020-02-07T15:30:10.482","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:10.482","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:10.487","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: true","pid":5274}
+{"ts":"2020-02-07T15:30:10.959","sev":"info","k":"interaction-begin","v":{"name":"FlowGraph.clearSelection","traceId":3},"pid":5290}
+{"ts":"2020-02-07T15:30:10.967","sev":"debug","k":"interaction-completed-tasks","v":{"completedTasks":[{"endTime":23765.99999999962,"name":"FlowGraph.clearSelection","startTime":23758.6999999985,"taskId":3}],"name":"FlowGraph.clearSelection","traceId":3},"pid":5290}
+{"ts":"2020-02-07T15:30:10.967","sev":"info","k":"interaction-end","v":{"elapsed":0.007999999997991836,"name":"FlowGraph.clearSelection","properties":{},"traceId":3},"pid":5290}
+{"ts":"2020-02-07T15:30:43.035","sev":"info","k":"interaction-begin","v":{"name":"FlowGraph.clearSelection","traceId":4},"pid":5290}
+{"ts":"2020-02-07T15:30:43.042","sev":"debug","k":"interaction-completed-tasks","v":{"completedTasks":[{"endTime":55840.29999999984,"name":"FlowGraph.clearSelection","startTime":55833.80000000034,"taskId":4}],"name":"FlowGraph.clearSelection","traceId":4},"pid":5290}
+{"ts":"2020-02-07T15:30:43.042","sev":"info","k":"interaction-end","v":{"elapsed":0.0067000000017287675,"name":"FlowGraph.clearSelection","properties":{},"traceId":4},"pid":5290}
+{"ts":"2020-02-07T15:30:44.394","sev":"info","k":"interaction-begin","v":{"name":"FlowGraph.updateSelection","traceId":5},"pid":5290}
+{"ts":"2020-02-07T15:30:44.401","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flowOperations"},"pid":5290}
+{"ts":"2020-02-07T15:30:45.823","sev":"info","k":"rest-api-call-end","v":{"elapsed":1.4232000000010885,"jsonParseTime":0.0038000000022293534,"method":"POST","path":"/api/flowOperations"},"pid":5290}
+{"ts":"2020-02-07T15:30:45.824","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/flowOperations/d53cb4c8-7b3a-446d-a587-b8f47ae3f91c"},"pid":5290}
+{"ts":"2020-02-07T15:30:45.825","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/flowOperations/d53cb4c8-7b3a-446d-a587-b8f47ae3f91c"},"pid":5290}
+{"ts":"2020-02-07T15:30:45.827","sev":"debug","k":"binning-service-ops","v":"updating base bins due to action app/ON_NEW_FLOW_RESULTS_AVAILABLE","pid":5290}
+{"ts":"2020-02-07T15:30:45.902","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.07739999999830616,"jsonParseTime":0,"method":"DELETE","path":"/api/flowOperations/d53cb4c8-7b3a-446d-a587-b8f47ae3f91c"},"pid":5290}
+{"ts":"2020-02-07T15:30:45.902","sev":"debug","k":"interaction-completed-tasks","v":{"completedTasks":[{"endTime":57247.4000000002,"name":"FlowGraph.updateSelection","startTime":57192.89999999819,"taskId":5},{"endTime":58669.09999999916,"name":"initialFlowResponse:processResults","startTime":58622.299999999086,"taskId":11}],"name":"FlowGraph.updateSelection","traceId":5},"pid":5290}
+{"ts":"2020-02-07T15:30:45.902","sev":"info","k":"interaction-end","v":{"elapsed":1.5083000000013271,"name":"FlowGraph.updateSelection","properties":{"nodeType":".v1.WriteToHyper"},"traceId":5},"pid":5290}
+{"ts":"2020-02-07T15:30:51.302","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flowOperations/flows"},"pid":5290}
+{"ts":"2020-02-07T15:30:51.305","sev":"info","k":"ui-callbacks","v":"Setting ready to save state: false","pid":5274}
+{"ts":"2020-02-07T15:30:51.305","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:51.305","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:51.305","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flows/versioning/minimumSoftwareVersion"},"pid":5290}
+{"ts":"2020-02-07T15:30:51.307","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/loomDocValidation"},"pid":5290}
+{"ts":"2020-02-07T15:30:51.324","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: true","pid":5274}
+{"ts":"2020-02-07T15:30:51.324","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:51.324","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:51.328","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: false","pid":5274}
+{"ts":"2020-02-07T15:30:51.350","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.044200000000273576,"jsonParseTime":0,"method":"POST","path":"/api/flows/versioning/minimumSoftwareVersion"},"pid":5290}
+{"ts":"2020-02-07T15:30:51.350","sev":"info","k":"ui-callbacks","v":"Setting ready to save state: true","pid":5274}
+{"ts":"2020-02-07T15:30:51.350","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:51.350","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:51.367","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.06529999999838765,"jsonParseTime":0,"method":"POST","path":"/api/flowOperations/flows"},"pid":5290}
+{"ts":"2020-02-07T15:30:51.375","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.06720000000132131,"jsonParseTime":0.00029999999969732016,"method":"POST","path":"/api/loomDocValidation"},"pid":5290}
+{"ts":"2020-02-07T15:30:51.379","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: true","pid":5274}
+{"ts":"2020-02-07T15:30:51.379","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:51.379","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:51.383","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: false","pid":5274}
+{"ts":"2020-02-07T15:30:51.396","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: false","pid":5274}
+{"ts":"2020-02-07T15:30:51.397","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:51.397","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:51.402","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: true","pid":5274}
+{"ts":"2020-02-07T15:30:55.332","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flowOperations"},"pid":5290}
+{"ts":"2020-02-07T15:30:55.335","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: true","pid":5274}
+{"ts":"2020-02-07T15:30:55.335","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:55.335","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:55.337","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: false","pid":5274}
+{"ts":"2020-02-07T15:30:55.349","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: false","pid":5274}
+{"ts":"2020-02-07T15:30:55.349","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:55.349","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:55.353","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: true","pid":5274}
+{"ts":"2020-02-07T15:30:55.378","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.04550000000017462,"jsonParseTime":0.0004000000008090865,"method":"POST","path":"/api/flowOperations"},"pid":5290}
+{"ts":"2020-02-07T15:30:55.581","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658752522494&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:55.586","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.006100000002334127,"jsonParseTime":0.00010000000111176632,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658752522494&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:55.788","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:55.794","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.005300000000715954,"jsonParseTime":0,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:55.996","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:56.002","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.005199999999604188,"jsonParseTime":0,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:56.204","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:56.209","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.004399999997986015,"jsonParseTime":0,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:56.410","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:56.417","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.006600000000617001,"jsonParseTime":0.00009999999747378752,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:56.621","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:56.647","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.025600000000849832,"jsonParseTime":0.00010000000111176632,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:56.850","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:56.855","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.006299999997281702,"jsonParseTime":0.00019999999858555384,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:57.058","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:57.063","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.005499999999301508,"jsonParseTime":0.00009999999747378752,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:57.265","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:57.271","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.004499999999097781,"jsonParseTime":0.00019999999858555384,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:57.473","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:57.477","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.004700000001321314,"jsonParseTime":0.00010000000111176632,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:57.680","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:57.683","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.003899999999703141,"jsonParseTime":0.00010000000111176632,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:57.884","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:57.888","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.004700000001321314,"jsonParseTime":0,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:58.091","sev":"info","k":"rest-api-call-begin","v":{"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:58.095","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.004300000000512227,"jsonParseTime":0.00020000000222353265,"method":"GET","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57?version=22658754736977&excludeSchema=true&excludeStats=true"},"pid":5290}
+{"ts":"2020-02-07T15:30:58.096","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57"},"pid":5290}
+{"ts":"2020-02-07T15:30:58.096","sev":"info","k":"rest-api-call-begin","v":{"method":"DELETE","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57"},"pid":5290}
+{"ts":"2020-02-07T15:30:58.108","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.011099999999714782,"jsonParseTime":0,"method":"DELETE","path":"/api/flowOperations/96449626-f58c-4ab5-90e9-122d2d120a57"},"pid":5290}
+{"ts":"2020-02-07T15:30:59.518","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: false","pid":5274}
+{"ts":"2020-02-07T15:30:59.519","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:59.519","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:30:59.523","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: true","pid":5274}
+{"ts":"2020-02-07T15:31:01.643","sev":"info","k":"prep-window-manager","v":"Closing all windows","pid":5274}
+{"ts":"2020-02-07T15:31:01.644","sev":"info","k":"prep-window","v":"Sending request to close","pid":5274}
+{"ts":"2020-02-07T15:31:01.652","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: true","pid":5274}
+{"ts":"2020-02-07T15:31:01.652","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:31:01.652","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:31:01.655","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: false","pid":5274}
+{"ts":"2020-02-07T15:31:03.560","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/flows/versioning?localFile=%2FUsers%2Falexbenedict%2FDesktop%2FWine%20Data%2Fwineflow.tfl&softwareVersion=2018.2.3"},"pid":5290}
+{"ts":"2020-02-07T15:31:03.563","sev":"info","k":"ui-callbacks","v":"Setting modal dialog visibility: false","pid":5274}
+{"ts":"2020-02-07T15:31:03.563","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:31:03.563","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:31:03.566","sev":"info","k":"ui-callbacks","v":"Setting the window to be closeable: true","pid":5274}
+{"ts":"2020-02-07T15:31:03.637","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.07749999999941792,"jsonParseTime":0.00029999999969732016,"method":"POST","path":"/api/flows/versioning?localFile=%2FUsers%2Falexbenedict%2FDesktop%2FWine%20Data%2Fwineflow.tfl&softwareVersion=2018.2.3"},"pid":5290}
+{"ts":"2020-02-07T15:31:03.643","sev":"info","k":"menu","v":"Attempting refresh of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:31:03.643","sev":"info","k":"menu","v":"Refreshing of the main menu.","pid":5274}
+{"ts":"2020-02-07T15:31:03.645","sev":"info","k":"rest-api-call-begin","v":{"method":"POST","path":"/api/mruFlows"},"pid":5290}
+{"ts":"2020-02-07T15:31:03.657","sev":"info","k":"rest-api-call-end","v":{"elapsed":0.013100000000122236,"jsonParseTime":0,"method":"POST","path":"/api/mruFlows"},"pid":5290}
+{"ts":"2020-02-07T15:31:03.659","sev":"info","k":"prep-window","v":"Ready to close","pid":5274}
+{"ts":"2020-02-07T15:31:03.659","sev":"info","k":"app-window-all-closed","v":"","pid":5274}
+{"ts":"2020-02-07T15:31:03.659","sev":"info","k":"prep-window-manager","v":"Window 2 has closed","pid":5274}
+{"ts":"2020-02-07T15:31:03.686","sev":"info","k":"single-instance-app","v":"Releasing the single instance lock","pid":5274}
+{"ts":"2020-02-07T15:31:03.688","sev":"info","k":"single-instance-app","v":"Single instance lock released","pid":5274}
+{"ts":"2020-02-07T15:31:03.688","sev":"warn","k":"ServiceRegistry","v":"service Symbol(BackendManager) not found in service registry","pid":5274}
+{"ts":"2020-02-07T15:31:03.688","sev":"info","k":"before-quit","v":"","pid":5274}
+{"ts":"2020-02-07T15:31:03.688","sev":"info","k":"will-quit","v":"","pid":5274}
+{"ts":"2020-02-07T15:31:03.688","sev":"warn","k":"app-shutdown","v":"quitApp is already in progress, ignoring this call","pid":5274}
+{"ts":"2020-02-07T15:31:03.689","sev":"info","k":"app-exit","v":"Exiting from process.exit","pid":5274}
