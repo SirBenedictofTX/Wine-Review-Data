@@ -1,8 +1,8 @@
-## Overview
+# Overview
 
 A look at a Google Dataset with 150k wine reviews from Wine Spectator, with WS scores, prices, wine regions/countries, and an added sentiment analysis, which was performed using R/Syuzhet. The transformed dataset with sentiment analysis could be used by wine professionals or hobbyists who want a view to reviews, but don't want to rely on Wine Spectator points as a guideline.
 
-# Process Documentation
+## Process Documentation
 
 -Download data at https://www.kaggle.com/zynicide/wine-reviews
 
@@ -18,12 +18,12 @@ A look at a Google Dataset with 150k wine reviews from Wine Spectator, with WS s
 
 -Create Dashboard and/or Story for project requirements/as needed
 
-# Data
+## Data
 
 Data can be found in this Github repo as well as on Google Drive at https://drive.google.com/open?id=1tonMNAy9M4xzy7v-8ZSEn6zXjTwhTX48
 
 
-# Presentation
+## Presentation
 
 https://www.canva.com/design/DADzdbrrP8E/k-H6qOXX6PLvIotQb7JSxw/view?utm_content=DADzdbrrP8E&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
